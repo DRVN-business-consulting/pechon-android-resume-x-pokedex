@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PechonJavTraining</string>
+    <string name="name">Im Na-yeon (임나연)</string>
+    <string name="address">Myeongil-dong, Gangdong-gu, Seoul, South Korea</string>
+    <string name="email"><u>notnayeoniii@mail.com</u></string>
+    <string name="bday">September 22, 1995</string>
+    <string name="education1">COMPUTER PROGRAMMING (2014 - 2015)</string>
+    <string name="education2">BACHELOR OF SCIENCE AND INFORMATION TECHNOLOGY (2015 - 2019)</string>
+    <string name="work1">Mapping Assistant</string>
+    <string name="workaddress1">Prime@Technology Specialists Inc.</string>
+    <string name="workyear1">2019 - 2021</string>
+    <string name="workprojects1"> • Developed CAPI Application for Women and ICT Development Index Survey(WIDI)</string>
+    <string name="workprojects2"> • Developed CAPI Application for Household Survey on Domestic Visitors (HSDV)</string>
+    <string name="workprojects3"> • Developed CAPI Application for 2024 Census of Population and Community-Based Monitoring System (POPCEN-CBMS)</string>
+    <string name="work2">Philippine Statistics Authority</string>
+    <string name="workaddress2">PSA Headquarters PSA Complex, East Avenue Diliman, Quezon City Philippines 1101</string>
+    <string name="workyear2">2021 - present</string>
+    <string name="refname">MHIAMOR S. PILI</string>
+    <string name="refnum">09123456789</string>
+    <string name="refpos">INFORMATION SYSTEMS ANALYST II</string>
+    <string name="refname1">MARC FERDINAND CABANG</string>
+    <string name="refnum1">09987654321</string>
+    <string name="refpos1">INFORMATION SYSTEMS ANALYST II</string>
+</resources>
